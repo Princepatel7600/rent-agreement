@@ -241,6 +241,7 @@ nav {
 .herotext {
   font-size: 48px;
   font-weight: 800;
+  text-align: left;
 }
 .pos-relative {
   position: relative;
